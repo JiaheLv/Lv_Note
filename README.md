@@ -19,3 +19,5 @@
       - [02 天使游戏](./其他/文学/鲁依兹·萨丰/02%20天使游戏.md)
       - [03 天堂囚徒](./其他/文学/鲁依兹·萨丰/03%20天堂囚徒.md)
       - [04 灵魂迷宫](./其他/文学/鲁依兹·萨丰/04%20灵魂迷宫.md)
+  - [历史](./其他/历史/)
+    - [The History of Armenia: from The Origins to The Present](./其他/历史/The%20History%20of%20Armenia%20-%20from%20The%20Origins%20to%20The%20Present%20[自翻].md)
